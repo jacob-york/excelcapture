@@ -1,5 +1,5 @@
 # Excel Capture
-
+Converts all Excel Spreadsheets in a given directory into PNGS, outputting them in a separate file.
 
 ### Paths.cfg:
 Paths.cfg stores your input and output paths, ordered /input/, /output/.
