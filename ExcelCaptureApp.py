@@ -65,7 +65,7 @@ def main():
 
     for path in IN, OUT:
         if not os.path.exists(path):
-            print(f"File not Found: '{path}'.")
+            print(f"Directory not Found: '{path}'.")
             return
 
     clear_folder(OUT)
